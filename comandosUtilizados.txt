@@ -1,0 +1,33 @@
+  416  git branch -M main
+  417  git push -u origin main
+  418  git remote -v
+  419  git log
+  420  git status
+  421  touch comandos.txt
+  422  touch main.js
+  423  touch index.html
+  424  git add .
+  425  git commit -m "commit 01 de JulioCondor"
+  426  git push origin main
+  427  git branch feature01
+  428  git switch feature01
+  429  mkdir terminal
+  430  mkdir Hardware
+  431  touch Terminal/resumen.txt
+  432  touch Hardware/resumen.txt
+  433  git add .
+  434  git commit -m "commit 02 de JulioCondor"
+  435  git push origin feature01
+  436  git status
+  437  git log
+  438  git branch feature02
+  439  git switch feature02
+  440  git add .
+  441  git status
+  442  git commit -m "commit 03 de JulioCondor"
+  459  git push origin feature02
+  460  git log
+  461  git switch main
+  462  ls
+  463  mv comandos.txt comandosUtilizados.txt
+  464  history
