@@ -1,0 +1,6 @@
+Commandos Git Bash aprendidos en clase
+-git init
+-git status
+-cd 
+-mkdir
+-touch

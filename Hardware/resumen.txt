@@ -1,0 +1,4 @@
+Partes Internas de la Computadora
+-Procesador
+-Tarjeta grafica
+-Memoria ram
